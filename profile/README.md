@@ -1,11 +1,5 @@
 ﻿<!-- Inicio -->
-<img align="center" src="./Images/Logo/Bot/StarArisingBot (Logo).png">
 <h1 align="center">⭐ • Star Arising Bot • ⭐</h1>
-
-<!-- Conteudos -->
-<div align="center">
-	<img width="150px" src="./Images/Icons/Projects/StarArisingBot (Icon).png">
-</div>
 
 <!-- Sobre mim -->
 ## ✨ • Sobre mim
@@ -26,7 +20,6 @@
 
 ___
 <div>
-	<img align="left" width="150px" src="./Images/Icons/Projects/StarArisingBot (Icon).png"/>
 	<h3 align="center" style="font-size: 100;">
 		<a href="https://github.com/StarArisingBot-Project/StarArisingBot">
 			✨ 《 STAR ARISING BOT 》 ✨
@@ -43,7 +36,6 @@ ___
 
 ___
 <div>
-	<img align="left" width="150px" src="./Images/Icons/Projects/SAB MinigameEngine (Icon).png"/>
 	<h3 align="center" style="font-size: 80;">
 		<a href="https://github.com/StarArisingBot-Project/SAB-MinigameEngine">
 			✨ 《 SAB.MinigameEngine 》 ✨
@@ -57,7 +49,6 @@ ___
 
 ___
 <div>
-	<img align="left" width="150px" src="./Images/Icons/Projects/SAB MinigamesCollection (Icon).png"/>
 	<h3 align="center" style="font-size: 100;">
 		<a href="https://github.com/StarArisingBot-Project/SAB-MinigamesCollection">
 			✨ 《 SAB.MinigamesCollection 》 ✨
@@ -77,7 +68,6 @@ ___
 <h1 align="center">👥 • Equipe de Desenvolvimento • 👥</h1>
 
 <div>
-	<img align="left" width="150px" src="./Images/Icons/Users/Starciad (Icon).png"/>
 	<h3 align="center">✨ 《 CRIADOR 》 ✨</h3>
 
 ```
